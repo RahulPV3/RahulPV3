@@ -68,6 +68,8 @@ class Rahul:
   <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=py,git,github,vscode">
 </picture>
 
+---
+
 ## 📊 GitHub Stats
 
 <picture>
