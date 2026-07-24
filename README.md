@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86AB,100:1B4F72&height=200&section=header&text=Rahul%20PV&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20Python%20%7C%20Backend%20Development&descAlignY=55&descSize=20" alt="header banner"/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=58A6FF&background=00000000&vCenter=true&width=600&lines=Hi%2C+I'm+Rahul+PV;Software+Engineer;Python+%7C+Backend+Development;Turning+ideas+into+working+code">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=1F6FEB&background=00000000&vCenter=true&width=600&lines=Hi%2C+I'm+Rahul+PV;Software+Engineer;Python+%7C+Backend+Development;Turning+ideas+into+working+code">
