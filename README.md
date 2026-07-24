@@ -63,20 +63,11 @@ class Rahul:
 
 ## 🛠️ Tech Stack
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://skillicons.dev/icons?i=py,git,github,vscode,mysql,linux&theme=dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://skillicons.dev/icons?i=py,git,github,vscode,mysql,linux&theme=light"
-  />
-  <img
-    alt="Tech Stack"
-    src="https://skillicons.dev/icons?i=py,git,github,vscode,mysql,linux"
-  />
-</picture>
+<div>
+
+<img src="https://skillicons.dev/icons?i=py,git,github,vscode,mysql,linux&perline=6" />
+
+</div>
 
 ---
 
