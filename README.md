@@ -77,7 +77,7 @@ class Rahul:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RahulPV3&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RahulPV3&show_icons=true&theme=default&hide_border=true&bg_color=00000000">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RahulPV3&show_icons=true&hide_border=true">
+  <img alt="" src="https://github-readme-stats.vercel.app/api?username=RahulPV3&show_icons=true&hide_border=true">
 </picture>
 
 <picture>
