@@ -94,7 +94,6 @@ class Rahul:
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/RahulPV3/RahulPV3/output/github-contribution-grid-snake.svg">
 </picture>
 
-> ⚠️ Snake animation requires the GitHub Action below — see setup instructions.
 
 ---
 
