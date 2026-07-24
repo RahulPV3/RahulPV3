@@ -63,8 +63,6 @@ class Rahul:
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,git,github,vscode&theme=light">
