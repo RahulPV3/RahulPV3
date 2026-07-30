@@ -44,21 +44,39 @@ class Rahul:
 
 ## 🚀 Featured Projects
 
-### 🎙️ VoiceShop — *Voice-Based E-Commerce System*
-> Voice-enabled product search using speech recognition & NLP
+### 🎙️ VoiceShop — Voice-Based E-Commerce System
+> Voice-controlled product search using Speech Recognition and NLP
 
-**Tech:** Python · Speech Recognition · NLP
-- Built voice-command processing for product search
-- Implemented core application logic and feature handling in Python
+**Tech:** Python · SpeechRecognition · NLP · MySQL
+
+- Developed a voice-driven product search system that converts speech to text using Speech Recognition.
+- Processed user queries with NLP techniques to extract keywords for accurate product matching.
+- Queried a product database based on processed text and returned relevant search results.
+- Designed the complete workflow from voice input to database search and result retrieval.
 
 ---
 
 ### 📝 Plagiarism Detection System
-> Document comparison and similarity analysis tool
+> Handwritten document similarity detection using OCR and NLP
 
-**Tech:** Python · Text Processing · NLP
-- Built document comparison and similarity-analysis features
-- Implemented file handling and text-analysis functionality
+**Tech:** Python · OCR · NLP
+
+- Built a plagiarism detection system that extracts text from handwritten documents using OCR.
+- Compared extracted text using NLP-based similarity analysis to identify matching content.
+- Implemented document preprocessing, text extraction, and similarity computation in Python.
+- Generated plagiarism reports to assist in document comparison and analysis.
+
+---
+
+### 📦 Inventory Reorder Alert System
+> Automated inventory monitoring and reorder recommendation tool
+
+**Tech:** Python · Pandas
+
+- Built an inventory monitoring system that tracks stock levels and identifies low-stock items.
+- Calculated reorder quantities based on predefined inventory thresholds.
+- Processed CSV inventory data and generated automated reorder reports.
+- Improved inventory management by reducing manual stock monitoring.
 
 ---
 
