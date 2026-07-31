@@ -84,7 +84,7 @@ class Rahul:
 
 <div>
 
-<img src="https://skillicons.dev/icons?i=py,git,github,vscode,mysql,java,linux&perline=6" />
+<img src="https://skillicons.dev/icons?i=py,git,github,vscode,mysql,java,html,linux&perline=6" />
 
 </div>
 
@@ -113,7 +113,7 @@ class Rahul:
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahulPV3/RahulPV3/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahulPV3/RahulPV3/output/github-contribution-grid-snake.svg">
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/RahulPV3/RahulPV3/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> 
 
 
 ---
