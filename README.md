@@ -80,7 +80,7 @@ class Rahul:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 <div>
 
