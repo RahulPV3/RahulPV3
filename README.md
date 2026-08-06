@@ -80,6 +80,18 @@ class Rahul:
 
 ---
 
+### 💰 Smart Expense Tracker API
+> REST API for personal expense management with automated testing
+
+**Tech:** Python · FastAPI · Pytest · Pydantic · JSON
+
+- Designed and developed a RESTful API to manage personal expenses using FastAPI.
+- Implemented expense creation, retrieval, category filtering, total calculation, and deletion endpoints.
+- Applied request validation with Pydantic and handled duplicate records and invalid requests through structured error handling.
+- Wrote automated tests using Pytest, achieving complete verification of all core API endpoints.
+
+---
+
 ## 🛠️ Tech Stack 
 
 <div>
