@@ -76,7 +76,7 @@ class Rahul:
 - Built an inventory monitoring system that tracks stock levels and identifies low-stock items.
 - Calculated reorder quantities based on predefined inventory thresholds.
 - Processed CSV inventory data and generated automated reorder reports.
-- Improved inventory management by reducing manual stock monitoring.
+- Improved inventory management by reducing manual stock monitoring. 
 
 ---
 
