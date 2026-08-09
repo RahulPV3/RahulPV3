@@ -27,7 +27,7 @@ class Rahul:
     def __init__(self):
         self.title      = "Aspiring Software Engineer"
         self.stack      = {
-            "language":   ["Python", "SQL (Basic)"],
+            "language":   ["Python", "SQL"],
             "concepts":   ["OOP", "Data Structures", "Algorithms", "NLP Basics", "Speech Recognition"],
             "tools":      ["Git", "GitHub", "VS Code", "Microsoft Excel"],
         }
