@@ -96,7 +96,7 @@ class Rahul:
 
 <div>
 
-<img src="https://skillicons.dev/icons?i=py,git,github,vscode,mysql,java,html,linux&perline=6" />
+<img src="https://skillicons.dev/icons?i=py,git,github,vscode,mysql,java,html,css,linux&perline=6" />
 
 </div>
 
